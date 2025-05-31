@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/render-xhttp1/xhttp1:latest
+          tags: ghcr.io/renderxhttp1/xhttp1:latest
